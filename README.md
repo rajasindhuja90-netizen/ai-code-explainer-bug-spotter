@@ -76,5 +76,3 @@ This project is part of an "AI Tools & Mini Project" learning module, exploring 
 - File upload instead of paste-only
 
 ---
-
-Built as part of Module 5 — AI Tools & Mini Project.
